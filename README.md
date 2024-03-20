@@ -12,5 +12,5 @@
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/hariram102?theme=light" alt="LeetCode Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hariram-6674&" alt="hariram-6674" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hariram-6674&" alt="Hariram-6674" />
 </p>
